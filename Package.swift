@@ -18,7 +18,7 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages which this package depends on.
         .binaryTarget(
             name: "Framework",
-            url: "https://github.com/avalakvista/framework/releases/download/v2.0.0/Framework-2.0.0.zip",
-            checksum: "2896a95ba2a93bee75cd4189cee17e9d8d9445d9d20309144bae15eb59db110f"),
+            url: "https://github.com/avalakvista/framework/releases/download/v2.0.1/Framework-2.0.1.zip",
+            checksum: "90523744b0a7b88611854b8a7781266abb21b4ebf8f814f5473a37a8837fa058"),
     ]
 )
